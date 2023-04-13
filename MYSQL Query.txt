@@ -17,6 +17,7 @@ var mysql = require('mysql2');
       console.log("1 record inserted");  
   }); 
   }); 
+  });
 
 --------------------------------------------------------------------------------------------------------
   SQL DELETE Command Query 
